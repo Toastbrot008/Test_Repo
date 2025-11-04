@@ -1,3 +1,0 @@
-C:/Users/gamer/CLionProjects/dei_mama/cmake-build-debug/CMakeFiles/dei_mama.dir
-C:/Users/gamer/CLionProjects/dei_mama/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/gamer/CLionProjects/dei_mama/cmake-build-debug/CMakeFiles/rebuild_cache.dir
